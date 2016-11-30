@@ -22,7 +22,9 @@ or install python 2.7 and then install Numpy, Scipy, Pandas, matplotlib,jupyter 
 > sudo pip install numpy scipy matplotlib 
 
 - after anaconda installed , one may need to jupyter run, by type in command line and hit the enter.
+
 > jupyter notebook 
+
 and then upload and select boston_housing-YOONSU PARK.ipynb in web page.  
 
 
